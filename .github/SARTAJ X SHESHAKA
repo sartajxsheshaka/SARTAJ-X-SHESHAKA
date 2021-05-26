@@ -9,9 +9,9 @@ name: SARTAJ KHAN ARMANI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ SARTAJ]
   pull_request:
-    branches: [ main ]
+    branches: [SHESHAKA ]
 
 jobs:
   test:
